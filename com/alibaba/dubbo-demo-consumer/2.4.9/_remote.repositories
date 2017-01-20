@@ -1,0 +1,6 @@
+#NOTE: This is an Aether internal implementation file, its format can be changed without prior notice.
+#Fri Dec 09 10:47:27 CST 2016
+dubbo-demo-consumer-2.4.9.pom>=
+dubbo-demo-consumer-2.4.9-assembly.tar.gz>=
+dubbo-demo-consumer-2.4.9.jar>=
+dubbo-demo-consumer-2.4.9-sources.jar>=

@@ -1,0 +1,5 @@
+#NOTE: This is an Aether internal implementation file, its format can be changed without prior notice.
+#Fri Dec 09 10:46:28 CST 2016
+dubbo-remoting-http-2.4.9-sources.jar>=
+dubbo-remoting-http-2.4.9.jar>=
+dubbo-remoting-http-2.4.9.pom>=

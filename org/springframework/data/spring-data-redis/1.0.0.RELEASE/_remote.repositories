@@ -1,0 +1,5 @@
+#NOTE: This is an Aether internal implementation file, its format can be changed without prior notice.
+#Fri Sep 30 16:00:17 CST 2016
+spring-data-redis-1.0.0.RELEASE.jar>nexus=
+spring-data-redis-1.0.0.RELEASE-sources.jar>nexus=
+spring-data-redis-1.0.0.RELEASE.pom>nexus=

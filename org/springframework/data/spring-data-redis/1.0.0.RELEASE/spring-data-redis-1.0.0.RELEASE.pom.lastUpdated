@@ -1,0 +1,5 @@
+#NOTE: This is an Aether internal implementation file, its format can be changed without prior notice.
+#Fri Sep 30 15:52:41 CST 2016
+http\://172.20.201.234\:8081/nexus/content/groups/public/.lastUpdated=1475221961293
+http\://10.0.32.36\:8081/nexus/content/groups/public/.error=Could not transfer artifact org.springframework.data\:spring-data-redis\:pom\:1.0.0.RELEASE from/to nexus (http\://10.0.32.36\:8081/nexus/content/groups/public/)\: The operation was cancelled.
+@default-http\://10.0.32.36\:8081/nexus/content/groups/public/.lastUpdated=1475221872618

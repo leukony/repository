@@ -1,0 +1,5 @@
+#NOTE: This is an Aether internal implementation file, its format can be changed without prior notice.
+#Fri Dec 09 10:46:26 CST 2016
+dubbo-remoting-mina-2.4.9.pom>=
+dubbo-remoting-mina-2.4.9.jar>=
+dubbo-remoting-mina-2.4.9-sources.jar>=
