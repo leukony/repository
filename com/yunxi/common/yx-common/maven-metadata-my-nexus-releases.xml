@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<metadata>
+  <groupId>com.yunxi.common</groupId>
+  <artifactId>yx-common</artifactId>
+  <versioning>
+    <release>1.0.0.hx</release>
+    <versions>
+      <version>1.0.0</version>
+      <version>1.0.0.hx</version>
+    </versions>
+    <lastUpdated>20170220013954</lastUpdated>
+  </versioning>
+</metadata>
