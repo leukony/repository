@@ -3,12 +3,13 @@
   <groupId>com.yunxi.common</groupId>
   <artifactId>yx-common-tracer</artifactId>
   <versioning>
-    <release>2.0.0</release>
+    <release>2.0.0.hx</release>
     <versions>
       <version>1.0.0</version>
       <version>1.0.0.hx</version>
       <version>2.0.0</version>
+      <version>2.0.0.hx</version>
     </versions>
-    <lastUpdated>20170301102104</lastUpdated>
+    <lastUpdated>20170302114738</lastUpdated>
   </versioning>
 </metadata>
