@@ -1,0 +1,4 @@
+#NOTE: This is an Aether internal implementation file, its format can be changed without prior notice.
+#Wed Apr 12 17:29:41 CST 2017
+http\://172.20.201.234\:8081/nexus/content/groups/public/.error=Could not transfer artifact org.springframework\:spring-expression\:jar\:sources\:4.3.6.RELEASE from/to nexus (http\://172.20.201.234\:8081/nexus/content/groups/public/)\: connect timed out
+@default-http\://172.20.201.234\:8081/nexus/content/groups/public/.lastUpdated=1491989381898

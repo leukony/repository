@@ -1,0 +1,4 @@
+#NOTE: This is an Aether internal implementation file, its format can be changed without prior notice.
+#Wed Apr 12 16:52:03 CST 2017
+http\://172.20.201.234\:8081/nexus/content/groups/public/.error=Could not transfer artifact com.unboundid\:unboundid-ldapsdk\:pom\:3.2.0 from/to nexus (http\://172.20.201.234\:8081/nexus/content/groups/public/)\: connect timed out
+@default-http\://172.20.201.234\:8081/nexus/content/groups/public/.lastUpdated=1491987123665
