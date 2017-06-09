@@ -1,4 +1,5 @@
 #NOTE: This is an Aether internal implementation file, its format can be changed without prior notice.
-#Wed Apr 12 17:27:41 CST 2017
+#Fri Jun 09 17:02:49 CST 2017
 http\://172.20.201.234\:8081/nexus/content/groups/public/.error=Could not transfer artifact org.hibernate\:hibernate-validator\:jar\:sources\:5.3.4.Final from/to nexus (http\://172.20.201.234\:8081/nexus/content/groups/public/)\: connect timed out
 @default-http\://172.20.201.234\:8081/nexus/content/groups/public/.lastUpdated=1491989261777
+http\://maven.aliyun.com/nexus/content/groups/public/.lastUpdated=1496998969847

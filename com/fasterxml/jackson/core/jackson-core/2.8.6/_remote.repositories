@@ -1,4 +1,5 @@
 #NOTE: This is an Aether internal implementation file, its format can be changed without prior notice.
-#Mon Feb 20 13:51:21 CST 2017
+#Fri Jun 09 17:02:56 CST 2017
 jackson-core-2.8.6.pom>nexus=
 jackson-core-2.8.6.jar>nexus=
+jackson-core-2.8.6-sources.jar>nexus=
