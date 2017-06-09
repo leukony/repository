@@ -1,0 +1,6 @@
+#NOTE: This is an Aether internal implementation file, its format can be changed without prior notice.
+#Fri Jun 09 09:28:24 CST 2017
+http\://172.20.201.234\:8081/nexus/content/groups/public/.error=Could not transfer artifact com.alibaba.external\:jdbc.mysql.mysql-connector\:pom\:5.1.6 from/to nexus (http\://172.20.201.234\:8081/nexus/content/groups/public/)\: connect timed out
+http\://maven.aliyun.com/nexus/content/groups/public/.error=
+@default-http\://172.20.201.234\:8081/nexus/content/groups/public/.lastUpdated=1494393601451
+http\://maven.aliyun.com/nexus/content/groups/public/.lastUpdated=1496971704490

@@ -1,0 +1,5 @@
+#NOTE: This is an Aether internal implementation file, its format can be changed without prior notice.
+#Fri Jun 09 09:28:18 CST 2017
+http\://172.20.201.234\:8081/nexus/content/groups/public/.error=Could not transfer artifact org.springframework\:spring\:pom\:2.5.6 from/to nexus (http\://172.20.201.234\:8081/nexus/content/groups/public/)\: connect timed out
+@default-http\://172.20.201.234\:8081/nexus/content/groups/public/.lastUpdated=1494393581362
+http\://maven.aliyun.com/nexus/content/groups/public/.lastUpdated=1496971698754

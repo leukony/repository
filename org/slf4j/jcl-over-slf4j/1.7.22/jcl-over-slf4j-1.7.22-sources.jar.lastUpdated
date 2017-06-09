@@ -1,4 +1,5 @@
 #NOTE: This is an Aether internal implementation file, its format can be changed without prior notice.
-#Wed Apr 12 17:26:11 CST 2017
+#Fri Jun 09 17:02:09 CST 2017
 http\://172.20.201.234\:8081/nexus/content/groups/public/.error=Could not transfer artifact org.slf4j\:jcl-over-slf4j\:jar\:sources\:1.7.22 from/to nexus (http\://172.20.201.234\:8081/nexus/content/groups/public/)\: connect timed out
 @default-http\://172.20.201.234\:8081/nexus/content/groups/public/.lastUpdated=1491989171685
+http\://maven.aliyun.com/nexus/content/groups/public/.lastUpdated=1496998929352

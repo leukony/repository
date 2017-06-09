@@ -1,4 +1,5 @@
 #NOTE: This is an Aether internal implementation file, its format can be changed without prior notice.
-#Wed Apr 12 17:25:21 CST 2017
+#Thu Jun 08 16:30:41 CST 2017
 http\://172.20.201.234\:8081/nexus/content/groups/public/.error=Could not transfer artifact org.springframework.boot\:spring-boot-autoconfigure\:jar\:sources\:1.5.1.RELEASE from/to nexus (http\://172.20.201.234\:8081/nexus/content/groups/public/)\: connect timed out
 @default-http\://172.20.201.234\:8081/nexus/content/groups/public/.lastUpdated=1491989121604
+http\://maven.aliyun.com/nexus/content/groups/public/.lastUpdated=1496910641705

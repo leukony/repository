@@ -1,0 +1,5 @@
+#NOTE: This is an Aether internal implementation file, its format can be changed without prior notice.
+#Thu Jun 08 15:23:26 CST 2017
+http\://172.20.201.234\:8081/nexus/content/groups/public/.error=Could not transfer artifact commons-codec\:commons-codec\:pom\:1.10 from/to nexus (http\://172.20.201.234\:8081/nexus/content/groups/public/)\: connect timed out
+@default-http\://172.20.201.234\:8081/nexus/content/groups/public/.lastUpdated=1496815522368
+http\://maven.aliyun.com/nexus/content/groups/public/.lastUpdated=1496906606280
