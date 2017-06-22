@@ -1,0 +1,8 @@
+#NOTE: This is an Aether internal implementation file, its format can be changed without prior notice.
+#Fri Jun 16 14:34:40 CST 2017
+https\://github.com/alibaba/opensesame/.error=
+http\://repo1.maven.org/maven2/.error=
+http\://maven.aliyun.com/nexus/content/groups/public/.error=
+http\://repo1.maven.org/maven2/.lastUpdated=1497594880024
+https\://github.com/alibaba/opensesame/.lastUpdated=1497594879448
+http\://maven.aliyun.com/nexus/content/groups/public/.lastUpdated=1497594876861

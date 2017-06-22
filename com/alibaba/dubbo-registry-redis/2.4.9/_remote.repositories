@@ -1,5 +1,5 @@
 #NOTE: This is an Aether internal implementation file, its format can be changed without prior notice.
-#Wed Mar 01 19:48:02 CST 2017
+#Fri Jun 16 15:00:07 CST 2017
 dubbo-registry-redis-2.4.9.jar>=
 dubbo-registry-redis-2.4.9-sources.jar>=
 dubbo-registry-redis-2.4.9.pom>=

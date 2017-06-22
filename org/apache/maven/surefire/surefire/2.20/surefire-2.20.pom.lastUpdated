@@ -1,0 +1,4 @@
+#NOTE: This is an Aether internal implementation file, its format can be changed without prior notice.
+#Fri Jun 16 14:37:09 CST 2017
+http\://code.alibabatech.com/mvn/releases/.error=Could not transfer artifact org.apache.maven.surefire\:surefire\:pom\:2.20 from/to opensesame.releases.plugin (http\://code.alibabatech.com/mvn/releases)\: Failed to transfer file\: http\://code.alibabatech.com/mvn/releases/org/apache/maven/surefire/surefire/2.20/surefire-2.20.pom. Return code is\: 504 , ReasonPhrase\:Gateway Time-out.
+@default-http\://code.alibabatech.com/mvn/releases/.lastUpdated=1497595029213

@@ -1,4 +1,12 @@
 #NOTE: This is an Aether internal implementation file, its format can be changed without prior notice.
-#Wed Mar 01 19:48:03 CST 2017
-http\://172.20.201.234\:8081/nexus/content/groups/public/.error=
+#Fri Jun 16 15:00:08 CST 2017
+http\://code.alibabatech.com/mvn/releases/.error=Could not transfer artifact com.alibaba\:hessian-lite\:jar\:sources\:3.2.1-fixed-2 from/to opensesame.releases (http\://code.alibabatech.com/mvn/releases)\: Failed to transfer file\: http\://code.alibabatech.com/mvn/releases/com/alibaba/hessian-lite/3.2.1-fixed-2/hessian-lite-3.2.1-fixed-2-sources.jar. Return code is\: 504 , ReasonPhrase\:Gateway Time-out.
 http\://172.20.201.234\:8081/nexus/content/groups/public/.lastUpdated=1488368883249
+https\://github.com/alibaba/opensesame/.lastUpdated=1497595160918
+https\://github.com/alibaba/opensesame/.error=
+@default-http\://code.alibabatech.com/mvn/releases/.lastUpdated=1497596408894
+http\://maven.aliyun.com/nexus/content/groups/public/.lastUpdated=1497595159082
+http\://maven.aliyun.com/nexus/content/groups/public/.error=
+http\://172.20.201.234\:8081/nexus/content/groups/public/.error=
+http\://repo1.maven.org/maven2/.lastUpdated=1497595161169
+http\://repo1.maven.org/maven2/.error=

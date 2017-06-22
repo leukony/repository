@@ -1,0 +1,6 @@
+#NOTE: This is an Aether internal implementation file, its format can be changed without prior notice.
+#Fri Jun 16 14:37:10 CST 2017
+maven-surefire-plugin-2.20.pom>central.repo.plugin=
+maven-surefire-plugin-2.20.pom>nexus=
+maven-surefire-plugin-2.20.jar>nexus=
+maven-surefire-plugin-2.20.jar>central.repo.plugin=
